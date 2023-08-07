@@ -1,6 +1,6 @@
 # DeepLearning MonteCarloFirstVisit ExploringStarts
 
-![DeepLearning_MonteCarloFirstVisit_ExploringStarts](https://github.com/mitch-henderson/DeepLearning_MonteCarloFirstVisit_ExploringStarts_CSPB3202/blob/main/MonteCarlo_OnPolicy_ExploringStarts.jpg?raw=true)
+![DeepLearning_MonteCarloFirstVisit_ExploringStarts](https://github.com/mitch-henderson/DeepLearning_MonteCarloFirstVisit_ExploringStarts_CSPB3202/blob/main/2023_08_mitch___h_deep_learning_models_Monte_Carlo_First_Visit-Predicti.png)
 
 
 I am applying the deep learning models Monte Carlo First Visit-Prediction, 
