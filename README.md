@@ -4,4 +4,4 @@
 
 
 I am applying the deep learning models Monte Carlo First Visit-Prediction, 
-and Monte Carlo Exploring Starts (ES) (a type of on-policy control), to the game of Blackjack.
+and Monte Carlo Exploring Starts (ES) [a type of on-policy control](https://towardsdatascience.com/on-policy-v-s-off-policy-learning-75089916bc2f), to the game of Blackjack.
