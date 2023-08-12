@@ -32,6 +32,25 @@ The repository contains functions to:
 - Run Monte Carlo with exploring starts.
 - Visualization of the results.
 
+## Primary Algorithm Toolset
+
+The code in this repository primarily leverages the following algorithms and tools:
+
+- **Monte Carlo Method**: Used for estimating the value of states in the Blackjack environment. This algorithm generates samples from the state space to estimate state values.
+  
+- **OpenAI's `gym` Library**: This is a toolkit for developing and comparing reinforcement learning algorithms. In our code, we use the `BlackjackEnv` from the toy text environments provided by `gym`.
+
+- **Seaborn and Matplotlib**: These Python data visualization libraries are used for visualizing the results of the Monte Carlo simulations.
+
+- **Numpy**: This library supports large, multi-dimensional arrays and matrices, along with a collection of mathematical functions to operate on these arrays.
+
+To get started with the toolset, ensure you have all the dependencies installed. You can generally install them using pip:
+
+```bash
+pip install gym numpy seaborn matplotlib
+```
+
+
 ## How to Use
 
 1. Set up the environment:
