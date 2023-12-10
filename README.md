@@ -1,6 +1,6 @@
 # DeepLearning MonteCarloFirstVisit ExploringStarts
 
-![DeepLearning_MonteCarloFirstVisit_ExploringStarts](https://github.com/mitch-henderson/DeepLearning_MonteCarloFirstVisit_ExploringStarts_CSPB3202/blob/main/2023_08_mitch___h_deep_learning_models_Monte_Carlo_First_Visit-Predicti.png)
+![DeepLearning_MonteCarloFirstVisit_ExploringStarts](https://github.com/mitch-henderson/DeepLearning_MonteCarloFirstVisit_ExploringStarts/blob/main/mitch___h_Blackjack_Monte_Carlo_Simulation._Miami_vice._downtow_fc409bf4-e1eb-46f2-b70a-7a0030be15f5.png)
 
 
 I am applying the deep learning models Monte Carlo First Visit-Prediction, 
