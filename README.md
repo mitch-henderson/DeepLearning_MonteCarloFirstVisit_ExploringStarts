@@ -21,7 +21,7 @@ This repo contains a Monte Carlo simulation for the game of Blackjack using the 
 - `pathlib`
 - `pickle`
 
-## Overview
+## Overview 
 
 The main goal of this simulation is to determine the best possible action (either to hit or stick) based on the current hand of the player, the visible card of the dealer, and whether or not the player has a usable ace. 
 
