@@ -17,7 +17,7 @@ This repo contains a Monte Carlo simulation for the game of Blackjack using the 
 - `numpy`
 - `matplotlib`
 - `seaborn`
-- `tqdm`
+- `tqdm` 
 - `pathlib`
 - `pickle`
 
