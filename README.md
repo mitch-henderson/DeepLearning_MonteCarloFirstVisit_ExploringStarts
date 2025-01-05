@@ -13,7 +13,7 @@ This repo contains a Monte Carlo simulation for the game of Blackjack using the 
 
 ## Dependencies
 
-- `gym`
+- `gym` 
 - `numpy`
 - `matplotlib`
 - `seaborn` 
